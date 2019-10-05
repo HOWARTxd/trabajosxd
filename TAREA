@@ -1,0 +1,49 @@
+¿Como se divide logicamente un disco duro?
+Se divide en tres:
+•Sector de arranue:
+Es el primer sector de un disco duro en él se almacena la tabla de particiones y un programa pequeño llamado Master Boot. Este programa se encarga de leer la tabla de particiones y ceder el control al sector de arranque de la partición activa, en caso de que no existiese partición activa mostraría un mensaje de error.
+• Espacio Particionado:
+ Es el espacio del disco que ha sido asignado a alguna partición.
+•Espacio sin particionar:
+Es el espacio del disco que no ha sido asignado a ninguna partición.
+TIPOS DE DISCO DURO Y VELOCIDADES DE TRANFERENCIA
+•Disco duro SAS
+Solicitados para el empleo en servidores, es posible conectarlos hasta con 6 ó 7 metros de distancia y de ahí en adelante cubrir hasta 24 computadoras.
+•Disco duro SCSI
+Poseen una interfaz muy pequeña y exige de un controlador para que opere.
+•Disco duro IDE, ATA y PATA
+IDE:Un disco duro IDE es una unidad que usa una conexión ATA paralela, llamada IDE de manera informal. El término IDE es sinónimo de Integrated Drive Electronics Interface (Interfaz Electrónica de Unidad Integrada).
+ATA:  (Advanced Technology Attachment)controla los dispositivos de almacenamiento masivo de datos, como los discos duros y ATAPI (Advanced Technology Attachment Packet Interface) o unidades de discos ópticos como lectoras o grabadoras de CD y DVD.
+PATA:PATA es un estándar de interfaz para conexiones entre dispositivos de almacenamiento en computadoras, como discos duros, unidades de CD-ROM y unidades de estado sólido.
+•SATA: Esta sigla significa tecnología avanzada de contacto. Y se distingue por funcionar con una velocidad cercana a los 150 megabytes por segundo.
+•SATA 2: Este dispositivo dispone de mejor capacidad debido a que funciona hasta con 300 megabytes por segundo.
+--------SATA PARA COMPUTADORAS DE ESCRITORIO 
+•SATA – 1: Alcanza una velocidad de hasta 150 Mb de transferencia.
+•SATA – 2: Alcanza una velocidad de hasta 300 Mb de transferencia.
+•SATA – 3: Alcanza una velocidad de hasta 600 Mb de transferencia.
+TIPOS DE CONPUTADORAS
+•Computadora de escritorio:
+Equipos se usan con frecuencias en los hogares. Incluyen ratón, monitor, teclado y un envase en donde se encuentran cada uno de los componentes internos. Se las diseña principalmente para las aplicaciones de uso diario.
+•Portátiles /Laptop:
+Modelos con una pantalla plana, teclado, memoria, procesador y dispositivo señalados. Son livianas y están pensadas para los usuarios que se mueven con frecuencia.
+•Estaciones de trabajo:
+Son computadoras que tienen monitores muy grandes, que por esa condición pueden presentar gráficos en la más alta calidad, razón por la que disponen de un procesador bastante potente para operar con datos complejos, al igual que discos duros que almacenan grandes cantidades de información.
+•Servidores:
+Son computadoras que se han optimizado para así brindar sus servicios a otras computadoras, todo por medio de la red.
+•Mainframes :
+Son computadoras con tamaños pensadas para el procesamiento de varias tareas que se reaqlizan por distintos  ususarios en simultaneo.
+•Supercomputadoras :
+Se usan más que nada la realización de cálculos numéricos por cantidades en periodos de tiempo que son muy cortos.
+¿EN QUE SE DIVIDE EL PROCESADOR DE UNA COMPUTADORA?
+
+•Zócalo
+•El CPU
+•Microprocesador
+•Unidad de Control
+•Encapsulado
+•Chipset
+•Registros
+•Unidad Aritmética Lógica
+•Tarjeta de video
+•Memoria Caché
+
